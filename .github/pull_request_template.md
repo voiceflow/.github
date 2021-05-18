@@ -8,7 +8,7 @@
 
 ### Implementation details. How do you make this change?
 
-<!-- Explain the way/approach you follow to make this change more deeply in order to help your teammates to undertand much easier this change -->
+<!-- Explain the way/approach you follow to make this change more deeply in order to help your teammates to understand much easier this change -->
 
 ### Setup information
 
