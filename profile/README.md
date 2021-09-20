@@ -1,4 +1,4 @@
-![Voiceflow logo](./voiceflow-logo.png)
+![Voiceflow logo](https://github.com/voiceflow/.github/blob/master/profile/voiceflow-logo.png)
 
 Getting started with the [Voiceflow API](https://www.voiceflow.com/developer) has never been easier.
 Use one of our examples to get setup in a matter of minutes:
