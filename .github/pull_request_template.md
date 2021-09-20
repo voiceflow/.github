@@ -32,6 +32,6 @@
 
 - [ ] title of PR reflects the branch name
 - [ ] all commits adhere to conventional commits
-- [ ] this is a breaking change and should trigger a publish a new major version
+- [ ] this is a breaking change and should publish a new major version
 - [ ] appropriate tests have been written
 - [ ] all the dependencies are upgraded
