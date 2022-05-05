@@ -23,10 +23,7 @@
 
 <!-- List related PRs against other branches -->
 
-| branch              | PR          |
-| ------------------- | ----------- |
-| other_pr_production | [link](url) |
-| other_pr_master     | [link](url) |
+- https://github.com/voiceflow/XXXXXXXXX/pull/123
 
 ### Checklist
 
