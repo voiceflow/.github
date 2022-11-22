@@ -27,6 +27,7 @@
 
 ### Checklist
 
+- [ ] changes have been validated in an ephemeral environment
 - [ ] this is a breaking change and should publish a new major version
 - [ ] appropriate tests have been written
 - [ ] any new env vars have been added to the [notion doc](https://www.notion.so/voiceflow/Add-Environment-Variables-be1b0136479f45f1adece7995a7adbfb) and infra has been notified
