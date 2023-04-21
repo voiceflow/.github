@@ -27,7 +27,10 @@
 
 ### Checklist
 
-- [ ] changes have been validated in an ephemeral environment
-- [ ] this is a breaking change and should publish a new major version
-- [ ] appropriate tests have been written
-- [ ] any new env vars have been added to the [notion doc](https://www.notion.so/voiceflow/Add-Environment-Variables-be1b0136479f45f1adece7995a7adbfb) and infra has been notified
+- [ ] Breaking changes have been communicated, including:
+    - New required environment variables
+    - Renaming of interfaces (API routes, request/response interface, etc)
+- [ ] New environment variables have [been deployed](https://www.notion.so/voiceflow/Add-Environment-Variables-be1b0136479f45f1adece7995a7adbfb)
+- [ ] Appropriate tests have been written
+    - Bug fixes are accompanied by an updated or new test
+    - New features are accompanied by a new test
