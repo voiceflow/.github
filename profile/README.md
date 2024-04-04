@@ -1,4 +1,4 @@
-![Voiceflow logo](https://cdn.voiceflow.com/assets/logo.png)
+<img src="https://cdn.voiceflow.com/assets/logo.png" alt="Voiceflow logo" width="300" />
 
 Design, develop, and launch impactful AI agents using any models and integrations.
 
